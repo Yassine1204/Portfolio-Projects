@@ -1,2 +1,2 @@
 # Portfolio-Projects
-A collection of beginner projects showcasing problem-solving and learning progress
+A collection of projects showcasing problem-solving and learning progress
